@@ -310,7 +310,7 @@
 
 
 
-    <meta property="og:image" content="https://ciistacna.com/2020/assets/images/logo.PNG">
+    <meta property="og:image" content="http://157.245.136.158/assets/images/logo.PNG">
 
 
 
@@ -1950,7 +1950,7 @@
 
 
 
-                            <a href="/2020"><img src="<?php echo IMAGES.'logo_ciis.svg' ?>"
+                            <a href="/"><img src="<?php echo IMAGES.'logo_ciis.svg' ?>"
 
 
 
@@ -2306,7 +2306,7 @@
 
 
 
-                                        <li class=" active"><a href="/2020"><i class="fa fa-home"></i>INICIO</a></li>
+                                        <li class=" active"><a href="/"><i class="fa fa-home"></i>INICIO</a></li>
 
 
 
