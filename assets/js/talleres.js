@@ -106,7 +106,7 @@ $(document).ready(function() {
 
 
 
-            url: '/2020/ajax/bee_cargar_tallere',
+            url: '/ajax/bee_cargar_tallere',
 
 
 
@@ -442,7 +442,7 @@ $(document).ready(function() {
 
 
 
-                                    <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 2.png" data-fancybox="images">
+                                    <a href="http://157.245.136.158/assets/images/talleres/Taller 2.png" data-fancybox="images">
 
 
 
@@ -450,7 +450,7 @@ $(document).ready(function() {
 
 
 
-                                        <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 2 min.png" alt="">
+                                        <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 2 min.png" alt="">
 
 
 
@@ -1134,7 +1134,7 @@ $(document).ready(function() {
 
 
 
-                                    <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 3.png" data-fancybox="images">
+                                    <a href="http://157.245.136.158/assets/images/talleres/Taller 3.png" data-fancybox="images">
 
 
 
@@ -1146,7 +1146,7 @@ $(document).ready(function() {
 
 
 
-                                        <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 3 min.png" alt="">
+                                        <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 3 min.png" alt="">
 
 
 
@@ -1794,11 +1794,11 @@ $(document).ready(function() {
 
 
 
-                                            <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 1.png" data-fancybox="images">
+                                            <a href="http://157.245.136.158/assets/images/talleres/Taller 1.png" data-fancybox="images">
 
 
 
-                                                <img class="w-200 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 1 min.png" alt="#">
+                                                <img class="w-200 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 1 min.png" alt="#">
 
 
 
@@ -2218,7 +2218,7 @@ $(document).ready(function() {
 
 
 
-                                    <a href="https://ciistacna.com/2020/assets/images/talleres/taller4.png" data-fancybox="images">
+                                    <a href="http://157.245.136.158/assets/images/talleres/taller4.png" data-fancybox="images">
 
 
 
@@ -2230,7 +2230,7 @@ $(document).ready(function() {
 
 
 
-                                        <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/taller4_min.png" alt="">
+                                        <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/taller4_min.png" alt="">
 
 
 
@@ -2686,7 +2686,7 @@ $(document).ready(function() {
 
 
 
-                    url: '/2020/usuario/eliminarTaller',
+                    url: '/usuario/eliminarTaller',
 
 
 
@@ -3462,7 +3462,7 @@ $(document).ready(function() {
 
 
 
-                        <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 1.png" data-fancybox="images">
+                        <a href="http://157.245.136.158/assets/images/talleres/Taller 1.png" data-fancybox="images">
 
 
 
@@ -3478,7 +3478,7 @@ $(document).ready(function() {
 
 
 
-                            <img class="w-200 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 1 min.png" alt="#">
+                            <img class="w-200 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 1 min.png" alt="#">
 
 
 
@@ -4470,7 +4470,7 @@ $(document).ready(function() {
 
 
 
-                        <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 2.png" data-fancybox="images">
+                        <a href="http://157.245.136.158/assets/images/talleres/Taller 2.png" data-fancybox="images">
 
 
 
@@ -4486,7 +4486,7 @@ $(document).ready(function() {
 
 
 
-                            <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 2 min.png" alt="">
+                            <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 2 min.png" alt="">
 
 
 
@@ -5666,7 +5666,7 @@ $(document).ready(function() {
 
 
 
-                        <a href="https://ciistacna.com/2020/assets/images/talleres/Taller 3.png" data-fancybox="images">
+                        <a href="http://157.245.136.158/assets/images/talleres/Taller 3.png" data-fancybox="images">
 
 
 
@@ -5682,7 +5682,7 @@ $(document).ready(function() {
 
 
 
-                            <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/Taller 3 min.png" alt="">
+                            <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/Taller 3 min.png" alt="">
 
 
 
@@ -6726,7 +6726,7 @@ $(document).ready(function() {
 
 
 
-                    <a href="https://ciistacna.com/2020/assets/images/talleres/taller4.png" data-fancybox="images">
+                    <a href="http://157.245.136.158/assets/images/talleres/taller4.png" data-fancybox="images">
 
 
 
@@ -6738,7 +6738,7 @@ $(document).ready(function() {
 
 
 
-                    <img class="w-100 d-block" src="https://ciistacna.com/2020/assets/images/talleres/taller4_min.png" alt="">
+                    <img class="w-100 d-block" src="http://157.245.136.158/assets/images/talleres/taller4_min.png" alt="">
 
 
 
@@ -7314,7 +7314,7 @@ function inscripcionesTalleres(nom){
 
 
 
-        url: '/2020/usuario/bee_add_taller_admin',
+        url: '/usuario/bee_add_taller_admin',
 
 
 
