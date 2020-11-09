@@ -118,7 +118,7 @@ $(document).ready(function() {
 
 
 
-                url: '/2020/ajax/bee_wrapper_ponencias',
+                url: '/ajax/bee_wrapper_ponencias',
 
 
 
@@ -1522,7 +1522,7 @@ function obtenerPonencia(id){
 
 
 
-            url: '/2020/ajax/bee_add_asistencia_usuario',
+            url: '/ajax/bee_add_asistencia_usuario',
 
 
 
