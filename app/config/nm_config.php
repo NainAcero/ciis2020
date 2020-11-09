@@ -433,7 +433,10 @@
 
 
     define('DB_HOST'   ,   'localhost');
-
+<<<<<<< HEAD
+=======
+    
+>>>>>>> ffea18e7e3d0bf1efd49b7a5e7d4e2e59a7ea852
 
 
 
@@ -442,6 +445,10 @@
 
     define('DB_NAME'   ,   'ciis2020');
 
+<<<<<<< HEAD
+    define('DB_NAME'   ,   'ciis2020');
+=======
+>>>>>>> ffea18e7e3d0bf1efd49b7a5e7d4e2e59a7ea852
 
 
 
@@ -450,12 +457,20 @@
 
     define('DB_USER'   ,   'sammy');
 
+<<<<<<< HEAD
+    define('DB_USER'   ,   'sammy');
+=======
+>>>>>>> ffea18e7e3d0bf1efd49b7a5e7d4e2e59a7ea852
 
 
 
 
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> ffea18e7e3d0bf1efd49b7a5e7d4e2e59a7ea852
     define('DB_PASS'   ,   'password123@@');
 
 
