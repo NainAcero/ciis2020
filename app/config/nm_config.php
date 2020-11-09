@@ -432,7 +432,7 @@
 
 
 
-    define('DB_HOST'   ,   '');
+    define('DB_HOST'   ,   'http://157.245.136.158/');
 
 
 
@@ -440,7 +440,7 @@
 
 
 
-    define('DB_NAME'   ,   '');
+    define('DB_NAME'   ,   'ciis2020');
 
 
 
@@ -448,7 +448,7 @@
 
 
 
-    define('DB_USER'   ,   '');
+    define('DB_USER'   ,   'sammy');
 
 
 
@@ -456,7 +456,7 @@
 
 
 
-    define('DB_PASS'   ,   '');
+    define('DB_PASS'   ,   'password123@@');
 
 
 
