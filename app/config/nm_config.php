@@ -110,7 +110,7 @@
 
 
 
-    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/2020/' : '167.172.153.191/');
+    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/2020/' : 'http://157.245.136.158/');
 
 
 
@@ -432,7 +432,7 @@
 
 
 
-    define('DB_HOST'   ,   '');
+    define('DB_HOST'   ,   'localhost');
 
 
 
@@ -440,7 +440,7 @@
 
 
 
-    define('DB_NAME'   ,   '');
+    define('DB_NAME'   ,   'ciis2020');
 
 
 
@@ -448,7 +448,7 @@
 
 
 
-    define('DB_USER'   ,   '');
+    define('DB_USER'   ,   'sammy');
 
 
 
@@ -456,7 +456,7 @@
 
 
 
-    define('DB_PASS'   ,   '');
+    define('DB_PASS'   ,   'password123@@');
 
 
 
