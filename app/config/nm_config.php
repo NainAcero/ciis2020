@@ -432,8 +432,8 @@
 
 
 
-    define('DB_HOST'   ,   'http://157.245.136.158/');
-
+    define('DB_HOST'   ,   'localhost');
+    
 
 
 
